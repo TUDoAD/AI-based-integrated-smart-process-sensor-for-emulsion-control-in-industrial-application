@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/833601454.svg)](https://zenodo.org/doi/10.5281/zenodo.12819799)
+
 # AI-based integrated smart process sensor for emulsion control in industrial application
 
 Repository containing further material for publication "AI-based integrated smart process sensor for emulsion control in
