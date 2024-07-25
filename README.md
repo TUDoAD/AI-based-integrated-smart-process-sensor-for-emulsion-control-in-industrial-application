@@ -3,6 +3,6 @@
 # AI-based integrated smart process sensor for emulsion control in industrial application
 
 Repository containing further material for publication "AI-based integrated smart process sensor for emulsion control in
-industrial application" published in MPDI Processes. This repository contains the code for the CAD sketches by I. Burke, S. Salzer, S. Stein, T. Olusanya, O. Thiel, and N. Kockmann, TU Dortmund University.
+industrial application" published in MPDI Processes. This repository contains the CAD sketches for a 3D printed measurement flow cell.
 
-The authors like to thank R. Fortmann for his assistance during 3D printing.
+The authors like to thank R. Fortmann (BCI, Laboratory of Equipment Design, TU Dortmund University) for his assistance during 3D printing.
